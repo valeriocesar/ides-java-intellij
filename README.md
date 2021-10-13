@@ -1,19 +1,21 @@
-# IDEs Java: IntelliJ 
+# Dominando IDEs Java - IntelliJ
 
-Aqui aprendemos como instalar, configurar e digitar nossas primeiras linhas com o IntelliJ.
+> Instalação, configuração e dicas de uso.
 
-Também fizemos o commit do nosso projeto, aprendemos sobre alguns atalhos e sobre debug.
+## :information_source: Sobre
 
+- Instalação JDK e Git no Ubuntu
+- Instalação IntelliJ e Eclipse no Ubuntu
+- Instalação JDK e Git no Windows
+- Instalação IntelliJ e Eclipse no Windows
+- Criando seu primeiro projeto com IntelliJ
+- Mais atalhos e versionamento
+- Debug
+- Plugins
+- Outra opção de IDE: Visual Studio Code
 
+## :information_source: Mais sobre isso
 
-## :link: Links Úteis
-:link: [IntelliJ IDEA](https://www.jetbrains.com/idea/download/#section=windows)
-
-:link: [Shortcuts IntelliJ](http://www.basef.com.br/index.php/Atalhos_do_IntelliJ_Idea)
-
-
-
-## :computer: Sobre mim
-
-:small_blue_diamond: [Linkedin](https://www.linkedin.com/in/valeriocesar/)
+- Criado durante meus estudos no bootcamp everis New Talents #2 Java.
+- Agradecimentos ao [Camila Cavalcante](https://github.com/cami-la) pelas aulas.
 
